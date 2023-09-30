@@ -20,7 +20,7 @@ This project focuses on the design and implementation of a library database. The
 
 If you're interested in exploring the details of the library database project, you can navigate to the following sections:
 
-1. [Database Design and Project Report](BD33LIVROSRelatorio.pdf)
+1. [Database Design and Project Report (its written in portuguese)](BD33LIVROSRelatorio.pdf)
 2. [PL/SQL Implementation](BD33LIVROSSQL.sql) 
 3. [apex code](BD33LIVROSAPEX.sql)
 
